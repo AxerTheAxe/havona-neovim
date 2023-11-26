@@ -2,6 +2,8 @@
 
 Havona theme for Neovim.
 
+![Theme preview](.github/images/preview.png)
+
 ## Installation
 
 **[lazy.nvim](https://github.com/folke/lazy.nvim)**
