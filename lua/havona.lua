@@ -9,6 +9,8 @@ function M.colorscheme()
     vim.cmd("syntax reset")
   end
   vim.g.colors_name = "havona"
+
+  require("havona.theme").load_colors()
 end
 
 return M
