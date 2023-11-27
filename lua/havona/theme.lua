@@ -76,7 +76,7 @@ function M.load_colors()
     ["SpecialChar"] = { fg = p.havona },
     ["SpecialComment"] = { fg = p.lilac },
     ["SpecialKey"] = { fg = p.spearmint },
-    ["SpellBad"] = { sp = p.subtle, undercurl = true },
+    ["SpellBad"] = { sp = p.azalea, undercurl = true },
     ["SpellCap"] = { sp = p.subtle, undercurl = true },
     ["SpellLocal"] = { sp = p.subtle, undercurl = true },
     ["SpellRare"] = { sp = p.subtle, undercurl = true },
